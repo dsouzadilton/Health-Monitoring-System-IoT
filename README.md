@@ -1,7 +1,6 @@
-# Health-Monitoring-System
+![image](https://github.com/dsouzadilton/Health-Monitoring-System-IoT/assets/84121216/89139c4d-c94d-4dd0-8709-f6fe1f2dcb8e)# Health-Monitoring-System
 <img alt="Static Badge" src="https://img.shields.io/badge/IoT-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Node--MCU-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Mini_Project-blue">
-![1](https://github.com/dsouzadilton/Health-Monitoring-System-IoT/assets/1.jpg)
-![1](https://github.com/dsouzadilton/Health-Monitoring-System-IoT/assets/1.jpg)
+![1](assets/1.jpg)
 
 `A Node-MCU based device that monitors user's health parameters such as body temperature, blood pressure and blood oxygen % (SpO2) and shares them on the user's smart-phone in realtime.
 Built in my Second year as part of academic mini-project.`
@@ -11,21 +10,21 @@ Built in my Second year as part of academic mini-project.`
 - [x] `The data can be viewed on the person's smartphone when connected to the same Wi-Fi`
 
 
-![2](https://github.com/dsouzadilton/Health-Monitoring-System-IoT/assets/84121216/bba7dc28-969f-4475-80b2-05b91fef8a22)
-![3](https://github.com/dsouzadilton/Health-Monitoring-System-IoT/assets/84121216/8723860f-e9f0-4cfb-abcf-2a3325a08e68)
+![1](assets/2.jpg)
+![1](assets/3.jpg)
 
 Circuit Connections:-
-![4](https://github.com/dsouzadilton/Health-Monitoring-System-IoT/assets/84121216/0596ed20-494d-4c53-8e1c-77d466c66d95)
+![4](assets/4.jpg)
 
 Design Sketch:-
-![5](https://github.com/dsouzadilton/Health-Monitoring-System-IoT/assets/84121216/7c5279fc-6fea-460f-a3a3-b218b4264de2)
+![5](assets/5.jpg)
 
 Actual System:-
-![6](https://github.com/dsouzadilton/Health-Monitoring-System-IoT/assets/84121216/1dfb42c7-0a81-4026-95df-c801011a85bf)
-![7](https://github.com/dsouzadilton/Health-Monitoring-System-IoT/assets/84121216/b088641c-ffe8-48d3-809e-111624b5b7c8)
+![6](assets/6.jpg)
+![7](assets/7.jpg)
 
 Smartphone Screen:-
-![image](https://github.com/dsouzadilton/Health-Monitoring-System-IoT/assets/84121216/d1aaa3ce-88d3-426d-82d4-9dcb567b4260)
+![image](assets/8.jpg)
 
 
 `Source Code is written using Arduino IDE.`
