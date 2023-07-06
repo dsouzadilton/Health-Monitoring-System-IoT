@@ -24,7 +24,7 @@ Actual System:-
 ![7](assets/7.jpg)
 
 Smartphone Screen:-
-![image](assets/8.jpg)
+<br>![image](assets/8.jpg)
 
 
 `Source Code is written using Arduino IDE.`
