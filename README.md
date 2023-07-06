@@ -1,4 +1,4 @@
-![image](https://github.com/dsouzadilton/Health-Monitoring-System-IoT/assets/84121216/89139c4d-c94d-4dd0-8709-f6fe1f2dcb8e)# Health-Monitoring-System
+# Health Monitoring System
 <img alt="Static Badge" src="https://img.shields.io/badge/IoT-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Node--MCU-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Mini_Project-blue">
 ![1](assets/1.jpg)
 
