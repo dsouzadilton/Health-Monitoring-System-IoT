@@ -1,6 +1,7 @@
 # Health-Monitoring-System
 <img alt="Static Badge" src="https://img.shields.io/badge/IoT-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Node--MCU-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Mini_Project-blue">
-![1](https://github.com/dsouzadilton/Health-Monitoring-System-IoT/assets/84121216/1e83c8c5-5b3b-42f7-aa01-737c2cfb50a8)
+![1](https://github.com/dsouzadilton/Health-Monitoring-System-IoT/assets/1.jpg)
+![1](https://github.com/dsouzadilton/Health-Monitoring-System-IoT/assets/1.jpg)
 
 `A Node-MCU based device that monitors user's health parameters such as body temperature, blood pressure and blood oxygen % (SpO2) and shares them on the user's smart-phone in realtime.
 Built in my Second year as part of academic mini-project.`
