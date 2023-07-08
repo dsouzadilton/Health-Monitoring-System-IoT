@@ -1,4 +1,4 @@
-### An IoT based health monitoring device ####
+# An IoT based health monitoring device #
 
 <img alt="Static Badge" src="https://img.shields.io/badge/IoT-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Node--MCU-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Mini_Project-blue">
 ![1](assets/1.jpg)
